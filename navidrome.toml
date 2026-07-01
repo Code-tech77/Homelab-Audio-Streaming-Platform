@@ -1,5 +1,5 @@
-MusicFolder = "/mnt/c/Users/moham/Music"
-DataFolder = "/home/$USER/navidrome/data"
+MusicFolder = ""
+DataFolder = ""
 Address = "0.0.0.0"
 Port = 4533
 
