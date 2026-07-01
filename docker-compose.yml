@@ -12,6 +12,6 @@ services:
       ND_LOGLEVEL: info  
       ND_BASEURL: ""
     volumes:
-      - "/home/cybertutor/navidrome/data:/data"
-      - "/home/cybertutor/navidrome/music:/music:ro"
+      - ""
+      - ""
 
